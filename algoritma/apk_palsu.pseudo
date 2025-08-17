@@ -1,0 +1,13 @@
+# Algoritma Penipuan APK Undangan Palsu
+
+START
+Penipu kirim file.apk --> Korban install --> APK minta izin akses
+IF korban memberikan izin:
+    APK berjalan di background
+    APK mencuri data (SMS, OTP, password, kontak)
+    APK kirim data ke server penipu
+    Penipu gunakan data untuk login ke M-Banking
+    Penipu transfer saldo korban
+ELSE
+    APK gagal beroperasi
+END
