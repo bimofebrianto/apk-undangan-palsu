@@ -1,0 +1,16 @@
+📱 Penipuan APK Undangan Palsu
+
+- File .apk = aplikasi Android (bukan dokumen).
+- Jika di-install, aplikasi bisa minta izin akses berbahaya.
+- Biasanya disamarkan sebagai undangan pernikahan, e-tilang, atau invoice belanja.
+- Begitu dijalankan, aplikasi bisa:
+  * Membaca SMS (termasuk OTP dari bank).
+  * Mengambil password / PIN.
+  * Membuka aplikasi m-banking secara diam-diam.
+  * Mengirim data ke server penipu.
+- Hasil akhirnya: saldo korban bisa dikuras.
+
+⚠️ Ingat:
+- Jangan install APK dari WA/SMS/Telegram.
+- Hanya install aplikasi lewat Play Store.
+- Edukasi keluarga agar tidak mudah tertipu.
